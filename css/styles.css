@@ -1,0 +1,20 @@
+h1{
+  color: lightblue;
+  text-align: center;
+  font-family: monospace;
+}
+
+body {
+  background: teal;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  align-content: center;
+}
+
+p {
+  text-align: center;
+  font-family: monospace;
+}
